@@ -2,11 +2,12 @@ const express = require('express');
 
 const app = express();
 
-slkadjgalksjdg
+const PORT = process.env.PORT || 3000;
 
-sdakjlhjgf
+app.get('/', (req, res) => {
+    res.send('Hello World!')
+});
 
-sakdlfj
-saLKJFLaskfj
-
-sadklfaslkd
+app.listen(PORT, () => {
+    console.log(`Server is running on http://localhost:${PORT}`);
+});

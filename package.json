@@ -1,0 +1,26 @@
+{
+  "name": "library-mangement-system",
+  "version": "1.0.0",
+  "description": "commiting by Satish",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/animekoon434-afk/Library-Management-System.git"
+  },
+  "author": "Satish Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/animekoon434-afk/Library-Management-System/issues"
+  },
+  "homepage": "https://github.com/animekoon434-afk/Library-Management-System#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
