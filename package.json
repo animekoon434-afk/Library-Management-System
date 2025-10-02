@@ -1,0 +1,27 @@
+{
+  "name": "library-mangement-system",
+  "version": "1.0.0",
+  "description": "This is a library management API Backend for the mangement of users and the books",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/animekoon434-afk/Library-Management-System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/animekoon434-afk/Library-Management-System/issues"
+  },
+  "homepage": "https://github.com/animekoon434-afk/Library-Management-System#readme",
+  
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
