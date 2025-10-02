@@ -47,3 +47,5 @@ GET: Get all issued books with their fine amount
 npm init
 npm i express
 npm i nodemon -D
+
+npm run dev
