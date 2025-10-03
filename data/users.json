@@ -6,8 +6,8 @@
             "surname": "Johnson",
             "email": "user@email.com",
             "issuedBooks": "1",
-            "issuedDate": "2023-10-01",
-            "returnDate": "2023-10-15",
+            "issuedDate": "2023-09-02",
+            "returnDate": "2024-10-15",
             "SubscriptionType": "Basic",
             "SubscriptionDate": "2023-09-01"
         },
@@ -17,7 +17,7 @@
             "surname": "Smith",
             "email": "user@email.com",
             "issuedBooks": "2",
-            "issuedDate": "2023-10-05",
+            "issuedDate": "2023-08-05",
             "returnDate": "2023-10-20",
             "SubscriptionType": "Standard",
             "SubscriptionDate": "2023-08-15"
@@ -28,10 +28,10 @@
             "surname": "Brown",
             "email": "user@email.com",
             "issuedBooks": "3",
-            "issuedDate": "2023-10-10",
-            "returnDate": "2023-10-25",
+            "issuedDate": "2025-10-10",
+            "returnDate": "2026-10-25",
             "SubscriptionType": "Premium",
-            "SubscriptionDate": "2023-07-20"
+            "SubscriptionDate": "2025-07-20"
         },
         {
             "id": "4",
@@ -39,7 +39,7 @@
             "surname": "Prince",
             "email": "user@email.com",
             "issuedBooks": "4",
-            "issuedDate": "2023-10-12",
+            "issuedDate": "2023-09-12",
             "returnDate": "2023-10-27",
             "SubscriptionType": "Basic",
             "SubscriptionDate": "2023-09-10"
@@ -49,7 +49,6 @@
             "name": "Ethan",
             "surname": "Hunt",
             "email": "user@email.com",
-            "issuedBooks": "0",
             "SubscriptionType": "Standard",
             "SubscriptionDate": "2023-08-25"
         }

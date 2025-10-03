@@ -39,9 +39,8 @@ GET: Get all issued books with their fine amount
     >> Standard (6 months)
     >> Premium (12 months)
 
->> If a user missed the renewal date, then user should be collected with $100
->> IF a user misses his subscription, then user  is expected to pay $100
->> If  a user misses both renewal & subcription, then the collected amount should be $200
+>> If a user missed the renewal date and still didn't return the issued book then user should be collected with 10$ per day after the expiry of the subscription 
+>> If a user misses the renewal date and does not return the issued book, a fine of $10 per day will be charged after the expiry of the subscription.
 
 ##  Commands:
 npm init
